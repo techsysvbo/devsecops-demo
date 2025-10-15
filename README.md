@@ -49,7 +49,7 @@ The game implements the following rules:
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v20 or higher)
 - npm or yarn
 
 ### Installation
